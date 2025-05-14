@@ -1,0 +1,20 @@
+streamlit>=1.15
+opencv-python
+numpy <=2.1.0
+mediapipe
+librosa
+soundfile
+plotly
+pandas
+Pillow
+openai-whisper
+deepface
+transformers
+torch
+moviepy
+tensorflow
+textblob
+nltk
+scipy
+praat-parselmouth
+streamlit-audio-recorder
